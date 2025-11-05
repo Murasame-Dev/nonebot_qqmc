@@ -7,4 +7,4 @@
 ~~也有可能是修api~~
 好了 我知道可能的原因了:Fabric 不支持send_msg这个实现，太草了
 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊搞了半天结果是这个抽象问题啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
-算了，写都写了，硬着头皮写到底吧，希望能不要太丑陋
+算了，写都写了，硬着头皮写到底吧，希望能不要太丑陋QQQQQQQQQQQQQQQQAAAAAAAAAAAAAAAAAAAAAQQQQQQQQQQQQQQQQQQQQQQQQQQQ
