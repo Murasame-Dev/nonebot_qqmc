@@ -1,2 +1,6 @@
 # nonebot_qqmc
 基于 鹊桥QueQiao 的 Nonebot 插件
+
+# 首先，别问我为什么有的文件没有注释，其次，我写完后会补，最后，这个项目有一部分依靠 AI 的帮助，感谢 Claude Sonnet 4.5，再最后，我觉得你们肯定看得懂，希望别嘲笑我的代码技术了，谢谢
+
+# MIT License
