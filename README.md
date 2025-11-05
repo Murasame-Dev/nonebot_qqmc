@@ -6,3 +6,7 @@
 # [**发疯日记啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊**](./todo.txt)
 
 # MIT License
+
+# 感谢 [17TheWord](https://github.com/17TheWord) 的 [nonebot-plugin-mcqq](https://github.com/17TheWord/nonebot-plugin-mcqq) 的代码给予我的灵感
+
+# 感谢 Minecraft 向我提供动力，这是我第一个不**过度**依靠 AI **Agent** 的项目，我希望此项目能让我学习很多东西
